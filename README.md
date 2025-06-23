@@ -1,5 +1,5 @@
 # RISCV-Processor
-This repository contains a modular implementation of a single-cycle RISC-V processor, developed using Verilog HDL. The processor is designed to execute a subset of RISC-V instructions in a single clock cycle. This is a work-in-progress project, with individual modules being implemented and tested incrementally.
+In this project we implement a 32-bit, single-cycle RISC-V ISA based processor in verilog. This is a work-in-progress project, with individual modules being implemented and tested incrementally. The modules used and their interaction with each other are shown in the following picture.
 ![WhatsApp Image 2025-06-19 at 10 50 20_bf8c3fbf](https://github.com/user-attachments/assets/a421efdc-9744-4123-b857-6d96a657149e)
 
 
